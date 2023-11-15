@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic GUI/Basic GUI.iml" filepath="$PROJECT_DIR$/Basic GUI/Basic GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Expressions/Expressions.iml" filepath="$PROJECT_DIR$/Expressions/Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For Loops/For Loops.iml" filepath="$PROJECT_DIR$/For Loops/For Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/If Statements/If Statements.iml" filepath="$PROJECT_DIR$/If Statements/If Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Java-Tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical Operators/Logical Operators.iml" filepath="$PROJECT_DIR$/Logical Operators/Logical Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math Methods/Math Methods.iml" filepath="$PROJECT_DIR$/Math Methods/Math Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstProgram/MyFirstProgram.iml" filepath="$PROJECT_DIR$/MyFirstProgram/MyFirstProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nested Loops/Nested Loops.iml" filepath="$PROJECT_DIR$/Nested Loops/Nested Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random Number/Random Number.iml" filepath="$PROJECT_DIR$/Random Number/Random Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swap Variables/Swap Variables.iml" filepath="$PROJECT_DIR$/Swap Variables/Swap Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TWOD Arrays/TWOD Arrays.iml" filepath="$PROJECT_DIR$/TWOD Arrays/TWOD Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User Inputs/User Inputs.iml" filepath="$PROJECT_DIR$/User Inputs/User Inputs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While Loops/While Loops.iml" filepath="$PROJECT_DIR$/While Loops/While Loops.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+
+v
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "z".(Å––8ˆŠ™½1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òşÿÿÿÿ8Ğš™½1
+X	java:S125"<This block of commented-out lines of code should be removed.(ŠÊµ½8ªĞš™½1
+L	java:S106"+Replace this use of System.out by a logger.(ãŒÂÔøÿÿÿÿ8ïô¡™½1
